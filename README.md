@@ -1,6 +1,6 @@
-#Hotel Reservation  Booking  Database Management System
+#TADBMSv1
 
-This is the code for the Web app for the Hotel Reservation Booking Database Management System.
+This is the code for the Web app for the TADBMSv1.
 
 
 
